@@ -145,3 +145,25 @@ code {
         opacity: 1;
     }
 
+/*MENU LI*/
+li {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.menu {
+  width: 100vw;
+  position: absolute;
+  top: -100px;
+  z-index: -10;
+  transition: all 0.5s;
+}
+
+.menu.show{
+  top: 0;
+}
+
+
+
+

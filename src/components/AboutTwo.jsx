@@ -10,7 +10,7 @@ export default function AboutTwo(){
                 </p>
             </div>
             <div className='px-6 md:px-24 lg:px-56'>
-                <p className="lg:mt-20 mt-10 text-2xl leading-relaxed md:leading-loose md:text-lg font-medium text-slate-900">
+                <p className="lg:mt-20 my-10 text-2xl leading-relaxed md:leading-loose md:text-lg font-medium text-slate-900">
                 そこで初めてフォニックスという英語の音と文字を繋げる学習に触れました。今では英語学習界隈では知らない人の方が少ないフォニックスは、その時はまだ誰も知らない画期的なものだったと思います。今私が多くの方に発音を褒めていただくようになったのは間違いなくフォニックス学習があったからです。
                 </p>
             </div>

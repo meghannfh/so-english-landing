@@ -2,6 +2,7 @@ import Top from './components/Top'
 import PodcastWidget from './components/PodcastWidget';
 import AboutOne from './components/AboutOne';
 import AboutTwo from './components/AboutTwo';
+import AboutThree from './components/AboutThree';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <PodcastWidget />
       <AboutOne />
       <AboutTwo />
+      <AboutThree />
     </div>
   );
 }

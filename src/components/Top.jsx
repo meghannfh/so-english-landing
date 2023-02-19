@@ -1,6 +1,6 @@
 import topImage from '../media/images/IMG_7003.jpeg';
-import Nav from './Nav'
-import { BsSpotify, BsInstagram, BsTwitter, BsYoutube } from 'react-icons/bs'
+import Nav from './Nav';
+import { BsSpotify, BsInstagram, BsTwitter, BsYoutube } from 'react-icons/bs';
 
 export default function Top(){
     return(
