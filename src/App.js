@@ -1,5 +1,5 @@
 import Top from './components/Top'
-import PodcastWidget from './components/PodcastWidget';
+import PodcastSection from './components/PodcastSection';
 import AboutOne from './components/AboutOne';
 import AboutTwo from './components/AboutTwo';
 import AboutThree from './components/AboutThree';
@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='h-screen'>
       <Top />
-      <PodcastWidget />
+      <PodcastSection />
       <AboutOne />
       <AboutTwo />
       <AboutThree />

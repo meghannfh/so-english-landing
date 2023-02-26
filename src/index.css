@@ -164,6 +164,16 @@ li {
   top: 0;
 }
 
+/*Fade up into view intersection observer*/
+
+.animated-component {
+  opacity: 0;
+  transition: opacity .75s ease-in-out;
+}
+
+.animated-component.is-visible {
+  opacity: 1;
+}
 
 
 
