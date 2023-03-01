@@ -20,6 +20,14 @@ code {
     monospace;
 }
 
+/*fixed bg*/
+.fixed-bg-section {
+  background-image: url('media/images/IMG_6944.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 /*Hamburger Menu*/
 .hamburger{
   cursor: pointer;
