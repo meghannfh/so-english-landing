@@ -155,10 +155,17 @@ code {
 
 /*MENU LI*/
 li {
+  border: 1px solid red;
   height: 100%;
   display: flex;
   align-items: center;
 }
+
+/*for small screens starting at 425px change
+ul to having 0 gap but add padding to each li and a width of 100%
+then hover affect on each li
+also need to add media for small screen on menu and change
+top position to -15 or more*/
 
 .menu {
   width: 100vw;
