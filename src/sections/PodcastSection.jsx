@@ -1,6 +1,6 @@
 import { SlSocialSpotify } from 'react-icons/sl'
 import { useRef, useEffect, useCallback } from 'react'
-import PodcastWidget from '../components/PodcastWidget';
+import PodcastWidget from '../components/podcast/PodcastWidget';
 
 export default function PodcastSection(){
     const animatedRef = useRef(null)
