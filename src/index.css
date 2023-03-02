@@ -170,7 +170,7 @@ top position to -15 or more*/
 .menu {
   width: 100vw;
   position: absolute;
-  top: -100px;
+  top: -200px;
   z-index: -10;
   transition: all 0.5s;
 }
@@ -178,6 +178,7 @@ top position to -15 or more*/
 .menu.show{
   top: 0;
 }
+
 
 /*Fade up into view intersection observer*/
 
