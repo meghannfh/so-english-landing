@@ -33,7 +33,7 @@ export default function PodcastSection(){
     }, [handleIntersection])
 
     return (
-        <div className="max-h-fit px-6 py-36 flex justify-center flex-col lg:flex-row border-2 bg-white">
+        <div className="max-h-fit px-6 py-36 flex justify-center flex-col lg:flex-row border-2 bg-white" id="section1">
             <div ref={animatedRef} className="animated-component lg:max-w-3xl border-2 flex flex-col">
                 <h1 className="text-6xl lg:text-7xl font-semibold leading-relaxed lg:leading-normal text-center">That's So Carrot</h1>
                 <h3 className="text-4xl font-bold text-center italic">ポッドキャスト!!</h3>

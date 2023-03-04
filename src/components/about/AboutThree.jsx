@@ -1,7 +1,7 @@
-import photoTwo from '../media/images/soenglishpic2.png'
-import photoThree from '../media/images/soenglishpic3.png'
-import photoFour from '../media/images/soenglishpic4.png'
-import photoFive from '../media/images/soenglishpic5.png'
+import photoTwo from '../../media/images/soenglishpic2.png'
+import photoThree from '../../media/images/soenglishpic3.png'
+import photoFour from '../../media/images/soenglishpic4.png'
+import photoFive from '../../media/images/soenglishpic5.png'
 
 export default function AboutThree(){
     return(

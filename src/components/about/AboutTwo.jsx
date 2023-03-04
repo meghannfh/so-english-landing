@@ -1,4 +1,4 @@
-import photoOne from '../media/images/babysonsis.png'
+import photoOne from '../../media/images/babysonsis.png'
 
 export default function AboutTwo(){
     return(

@@ -1,4 +1,4 @@
-import aboutSo from '../media/images/IMG_6789.jpeg'
+import aboutSo from '../../media/images/IMG_6789.jpeg'
 
 export default function AboutOne(){
     return(

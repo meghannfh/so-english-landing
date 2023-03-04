@@ -4,7 +4,7 @@ import AboutThree from "../components/about/AboutThree";
 
 export default function AboutSection() {
     return(
-        <div>
+        <div id="section2">
             <AboutOne />
             <AboutTwo />
             <AboutThree />
