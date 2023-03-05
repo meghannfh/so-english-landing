@@ -27,7 +27,7 @@ the nav bar and making the links unclickable. Might have to redo nav bar to make
                     <a href="#section4" onClick={(e) => handleLinkClick(e, 'section4')}>教材</a>
                 </li>
                 <li>
-                    <a href="#section4" onClick={(e) => handleLinkClick(e, 'section4')}>感想</a>
+                    <a href="#section5" onClick={(e) => handleLinkClick(e, 'section5')}>感想</a>
                 </li>
             </ul>
         </div>
