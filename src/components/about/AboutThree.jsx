@@ -11,7 +11,7 @@ export default function AboutThree(){
                     <img src={photoTwo} className="-rotate-[5deg] lg:w-[35%] md:w-[27%] w-1/2" alt={'young soichi standing next to his sister on elementery entrance ceremony'}/>
                     <img src={photoThree} className="-rotate-[-5deg] lg:w-[35%] md:w-[27%] w-1/2" alt={'young soichi standing next to his sister on elementery entrance ceremony'}/>
                 </div>
-                <p className="md:px-24 lg:px-56 my-6 text-2xl leading-relaxed md:leading-loose md:text-lg font-semibold text-sky-600">
+                <p className="md:px-24 lg:px-56 my-6 text-2xl leading-relaxed md:leading-loose md:text-lg font-semibold text-[#282828]">
                 中学では、英語はできるが暗記教科には興味がない平均的な生徒でした。東京の田舎に住んでいて、少し目立ったことをすれば、次の日には周りのお母さんたちが噂話をする、そんな小さくて閉鎖的な空間に嫌気がさしていて、早くもっと大きなところに行きたいと思っていました。それが理由で、高校は地元から離れたところに通い、都心でばかり遊んでいましたが、確かに人生は好転した気がしました。そのうち、更に大きなところへ行けば、人生が大きく変わるかもしれないと思い、アメリカ留学を決意しました。ちなみに、高校は外国語コースに入ったため、中学でちょっと英語が得意だった私は完全に英語落ちこぼれになり、勉強ができないひょうきんキャラを通していた為、担任に留学を相談した時は「甘くないよ」と猛反対されました。笑
                 </p>
             </div>

@@ -2,6 +2,7 @@ import Top from './sections/Top'
 import PodcastSection from './sections/PodcastSection';
 import AboutSection from './sections/AboutSection';
 import StudyMethodSection from './sections/StudyMethodSection';
+import StudyMaterialSection from './sections/StudyMaterialSection';
 
 //for fixed-bg create an empty div in studymethodsection that is position:fixed and has a lower
 //z-index than main content. the div will serve as container for image which will have a property
@@ -19,6 +20,7 @@ function App() {
         </div>
         <div>
           <StudyMethodSection />
+          <StudyMaterialSection />
         </div>
     </div>
   );
