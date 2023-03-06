@@ -20,7 +20,7 @@ export default function StudyMaterial(){
                 また、各スキルを伸ばす為のトレーニングは複数あり、トレーニングの種類の数だけ教材があり、レベル毎に異なるだけでなく、学習者との相性があります。So ENGLISH!では、市販の教材とオリジナルの教材を組み合わせて学習者に合った教材を使用しています。
             </p>
         </div>
-        <TextbooksCard book1={textbook1} book2={textbook2} book3={textbook3} book4={textbook4}/>
+        {/* <TextbooksCard book1={textbook1} book2={textbook2} book3={textbook3} book4={textbook4}/> */}
         <div className='px-6 py-24 md:px-24 lg:px-56'>
             <h4>授業で使っている教材例：</h4>
             <h5>①基礎文法</h5>
