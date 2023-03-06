@@ -31,7 +31,7 @@ export default function StudyMaterial(){
                 <li>『スーパーステップ中学英文法』(くもん出版、2021)など</li>
             </ul>
         </div>
-        {/* <TextbooksCard book1={textbook5} book2={textbook6} book3={textbook7} book4={textbook8}/> */}
+        <TextbooksCard book1={textbook5} book2={textbook6} book3={textbook7} book4={textbook8}/>
         <div className='px-6 py-24 md:px-24 lg:px-56'>
             <h5>②文章化トレーニング</h5>
             <ul className="mt-6 text-2xl leading-relaxed md:leading-loose md:text-lg font-medium text-slate-900">
